@@ -4,8 +4,7 @@
   "author": "srtr",
   "devDependencies": {
     "grunt": "*",
-    "grunt-notify":"*",
-    "grunt-open":"*",
+    "grunt-express":"*",
     "time-grunt":"*",
     "matchdep":"*"
   }
